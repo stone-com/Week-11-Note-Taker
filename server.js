@@ -1,6 +1,6 @@
 // require express and the two route files
 const express = require('express');
-const apiRoute = requrie('./routes/apiRoute');
+const apiRoute = require('./routes/apiRoute');
 const htmlRoute = require('./routes/htmlRoute');
 
 // Create express Server
