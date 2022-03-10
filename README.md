@@ -16,7 +16,7 @@ Application Link
 
 ## Live Link
 
-Deployed app
+Deployed app : https://stark-depths-96058.herokuapp.com/ 
 
 ## Screenshot
 
