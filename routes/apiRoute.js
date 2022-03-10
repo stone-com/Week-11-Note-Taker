@@ -36,7 +36,7 @@ router.post('/notes', (req, res) => {
 
 // DELETE Request
 // when user clicks delete button
-router.delete('notes/:id', (req, res) => {
+router.delete('/notes/:id', (req, res) => {
   // read and parse the currrent db file
   const note = JSON.parse(fs.readFileSync('./db/db.json'));
   // filter through the notes for any where the id is not a match
