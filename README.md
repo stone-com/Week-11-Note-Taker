@@ -18,4 +18,9 @@ Application Link
 
 Deployed app
 
+## Screenshot
+
+![Screenshot One](public/assets/img/ss1.png)
+![Screenshot Two](public/assets/img/ss2.png)
+
 
