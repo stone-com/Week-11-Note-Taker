@@ -16,7 +16,7 @@ Application Link
 
 ## Live Link
 
-Deployed app : https://stark-depths-96058.herokuapp.com/ 
+Deployed app : https://note-taker-stone.herokuapp.com/ 
 
 ## Screenshot
 
